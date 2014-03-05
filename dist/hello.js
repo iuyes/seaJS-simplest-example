@@ -1,0 +1,1 @@
+define("hello",["./world"],function(o){var n=o("./world"),e=new n.gt;e.show()}),define("world",[],function(o,n,e){function t(){}t.prototype.show=function(){console.log("This is From world.js!")},e.exports.gt=t});
